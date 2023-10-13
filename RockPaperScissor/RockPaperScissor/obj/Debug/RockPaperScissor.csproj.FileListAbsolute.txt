@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe.config
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.pdb
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.Form1.resources
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.Properties.Resources.resources
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.exe
+C:\Users\User\Desktop\Visual Studios ICS\My Introduction code\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.pdb
